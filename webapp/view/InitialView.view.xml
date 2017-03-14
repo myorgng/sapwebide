@@ -4,6 +4,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
+					<!-- Lable added -->
 					<Label text="GitHUB test project"></Label>
 				</content>
 			</Page>
